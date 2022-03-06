@@ -1,4 +1,4 @@
-# 데이터 분석하기
+# Analyzing data
 
 
-파이썬 머신러닝 판다스 데이터 분석 <책> - 기초 지식 쌓고 데이터 분석 시작
+Practice B with a book called 파이썬 머신러닝 판다스 데이터 분석
