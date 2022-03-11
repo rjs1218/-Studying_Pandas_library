@@ -17,7 +17,6 @@ df_seoul = df_seoul.drop(['전출지별'], axis=1)
 df_seoul.rename({'전입지별':'전입지'}, axis=1, inplace=True)
 df_seoul.set_index('전입지', inplace=True)
 
-# 스타일 서식 지정
 rc('font', family='AppleGothic')
 
 # 서울에서 충청남도, 경상북도, 강원도, 전라남도로 이동한 인구 데이터 값만 선택
